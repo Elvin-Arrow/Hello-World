@@ -1,3 +1,0 @@
-# Hello-World
-Testing Testing 123
-Just trying to understand how this thing works and that's all...
